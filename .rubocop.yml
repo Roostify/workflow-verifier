@@ -1,2 +1,2 @@
-inherit_gem:
-  rubocop_roostify: .rubocop.yml
+inherit_from:
+  - https://raw.githubusercontent.com/Roostify/rubocop_roostify/v0.1.0/.rubocop.yml
